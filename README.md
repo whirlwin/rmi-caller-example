@@ -1,4 +1,4 @@
-# RMI Caller
+# RMI Caller Example
 
 ---
 
